@@ -102,6 +102,7 @@ a {
     font-size: 36px;
     font-weight: bolder;
     margin: 16px;
+    
 }
 
 .mediaobject {
@@ -127,7 +128,25 @@ a {
 
 .third {
     background-color: #E5E7EB;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
+
+.thirdcontent {  
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.citation {
+    text-align: right;
+}
+
+
+
 
 .fourth {
     background-color: white;
