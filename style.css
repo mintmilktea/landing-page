@@ -191,3 +191,9 @@ a {
 .footer {
     background-color: #1F2937;
 }
+
+.footer p {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
