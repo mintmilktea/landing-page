@@ -159,6 +159,13 @@ a {
 
 .fourth {
     background-color: white;
+    
+}
+
+.signupbox {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
 }
 
 .footer {
